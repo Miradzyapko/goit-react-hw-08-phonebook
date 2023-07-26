@@ -15,5 +15,11 @@ export const Label = styled.label`
     display: flex;
     flex-direction: column;
     margin-bottom: 16px;
-  `
+  `;
+  export const Button = styled.button`
+padding: 15px 25px;
+cursor: pointer;
+border-radius: 4px;
+background: orange;
+border: 1px solid grey`;
   
